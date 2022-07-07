@@ -9,8 +9,4 @@ Repository for projects pertaining to data storage.
 
 ## Acknowledgements :pray:
 
-<p align="center">
-  <img
-    src="img/alx.png"
-    alt="Alx logo">
-</p>
+ <a href= "https://www.alxafrica.com/"><img style="width: 100%" src="img/alx.png" alt="Alx logo"></a>
